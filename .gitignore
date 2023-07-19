@@ -1,3 +1,4 @@
 .vscode
 .clasp.json
 node_modules
+coverage
